@@ -40,9 +40,8 @@ I specialize in designing and building **complex backend systems** and integrati
 
 ### 📬 Let's Connect
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Blog](#)
+- Discord: viperasuu
+- E-Mail: qviperh.dev@proton.me
 
 ---
 
