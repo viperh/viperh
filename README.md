@@ -25,7 +25,7 @@ I specialize in designing and building **complex backend systems** and integrati
 ---
 
 ### ⚡ Featured Projects
-
+- **Graeye** - A distributed vulnerability assessment platform with service/port discovery, banner grabbing, OS/software enumeration, CVE severity prioritization, exploit chain detection, live CVE feed monitoring, and an optional exploit simulation mode.
 - **Minecraft Server Managerment system** - Full management system for minecraft server.
 
 ---
