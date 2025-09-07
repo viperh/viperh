@@ -41,7 +41,7 @@ I specialize in designing and building **complex backend systems** and integrati
 ### 📬 Let's Connect
 
 - Discord: viperasuu
-- E-Mail: qviperh.dev@proton.me
+- E-Mail: romeo.oltean@backendev.dev
 
 ---
 
